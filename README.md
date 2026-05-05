@@ -34,5 +34,5 @@ Puedes compartir y adaptar este contenido, siempre que:
 
 ## 🧠 Cómo citar este trabajo
 
-Ortiz Ontiveros, A. (2025). *El Método Calipso: Una Propuesta para un Aprendizaje Vivo*. GitHub.  
+Ortiz Ontiveros, A. (2026). *El Método Calipso: Una Propuesta para un Aprendizaje Vivo*. GitHub.  
 [URL de tu repositorio]
