@@ -30,7 +30,7 @@ Puedes compartir y adaptar este contenido, siempre que:
 
 ## 🌐 Ver el documento publicado
 
-[El Método Calipso — Versión Web] (https://abra0x0y0z0-blip.github.io/MetodoCalipso/El%20Metodo%20Calipso.html)
+[El Método Calipso — Versión Web](https://abra0x0y0z0-blip.github.io/MetodoCalipso/El%20Metodo%20Calipso.html)
 
 ## 🧠 Cómo citar este trabajo
 
